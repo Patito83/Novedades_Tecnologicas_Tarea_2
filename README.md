@@ -95,6 +95,20 @@ Varios cientificos utilizan el ADN para resolver sistemas matematicos y operacio
 
 Usan procesos de circuitos biológicos capaces de almacenar memoria y investigan implantes para procesos medicos y corregir fallas en el organismo.
 
+## ⚙️ Computación Heterogénea
+
+Una union de múltiples procesadores como **CPU, GPU, ASIC, FFGA, NPU**, cada uno para tareas esprecíficas. Esto genera eficiencia, rendimientos y aprendizajes.
+
+### 🐄 Breve Historia de la Computadora Heterogénea
+
+#### 2000 - 2025
+
+En los **2000** se empiezan a generar graficos para computo general. Además, años despues se implementa para arquitecturas de computación, IA y sistemas embebidos.
+Actualmente los podemos ver en celulares, consolas y centros de datos para procesadores.
+
+## ⚪ Computación de Borde
+
+
 ## 📎 Referencias
 
 Microsoft Azure. (s.f.). ¿Qué es la computación cuántica? Recuperado el 5 de septiembre de 2025, de Microsoft Azure: https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-quantum-computing
@@ -105,3 +119,6 @@ Caballar, R. D., & Stryker, C. (27 de junio de 2024). ¿Qué es la computación 
 
 Marr, B. (2021, 2 de julio). What is biological computing and how it will change our world. Recuperado el 5 de septiembre de 2025, de Bernard Marr: https://bernardmarr.com/what-is-biological-computing-and-how-it-will-change-our-world/
 
+ARM. (s.f.). Heterogeneous compute. Recuperado el 5 de septiembre de 2025, de ARM Glossary: https://www.arm.com/glossary/heterogeneous-compute
+
+Cloudflare. (s.f.). What is edge computing? Recuperado el 5 de septiembre de 2025, de Cloudflare Learning Center: https://www.cloudflare.com/learning/serverless/glossary/what-is-edge-computing/
