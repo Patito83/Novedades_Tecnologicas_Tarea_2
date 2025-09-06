@@ -44,6 +44,18 @@ La mejor manera de solucionar un problema es con la Optimización, genera result
 
 En 1996 se desarolla una solución drastica para la busqueda de datos no estructurados, permitiendo ejecutar una busqueda en menos pasos que un algoritmo clásico.
 
+### 📎 Principios de la Computación Cuántica
+
+| Concepto | Description |
+| --- | --- |
+| Superposición | Se genera una combinación Lineal entre los estados [ 1 ] [ 0 ], permitiendo procesar posibilidades al mismo tiempo. |
+| Entanglement | Base de la comunicación y criptografía cuántica, donde dos o mas qubits quedan conectados que forman un estado reciproco. |
+| Interferencia Cuántica | Cualquier onda de probabilidad de estados pueden reforzarse o anularse, aumentando la probabilidad de obtener más soluciones. |
+| Medición Probabilística | Para definir si un qubit esta en [ 1 ] [ 0 ], se realiza un estado de colapso en cual depende de sus probabilidades. |
+| Decoherencia | Uno de los desafios de la computación es la fragilidad del Qubit y su ruido externo. |
+| Comunicación Cuántica | El **entrelazamiento** funciona para transmitir datos -> **(QKD)** |
+| Compuertas Cuánticas | Igual que las compuestas en binario, los qubits tambien pueden modificar su estado, ya sea con **Hadamard (H) - CNMOT - Pauli-X, Y, Z** |
+
 ## 📎 Referencias
 
 Microsoft Azure. (s.f.). ¿Qué es la computación cuántica? Recuperado el 5 de septiembre de 2025, de Microsoft Azure: https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-quantum-computing
