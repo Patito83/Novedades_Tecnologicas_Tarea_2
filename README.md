@@ -60,6 +60,8 @@ En 1996 se desarolla una solución drastica para la busqueda de datos no estruct
 
 La **Computación Neuromórfica**, tien como enfoque informático que imita la forma del funcionamiento de un cerebro humano. Implica el diseño de hardware y software que simulen las estructuras y funciones neuronales y sinápticas del cerebro para procesar información.
 
+<img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/c1be6c42-fd63-424d-805b-4bf583b6fd02" />
+
 ### 💽 Hardware Neuromórfico y Arquitectura
 
 Funciona mediante la simulación un millón de neuronas con miles de millones de conexiones sinápticas en tiempo real. Estan creados mediante dispositivos de silicio y tecnología **CMOS**. Su procesamiento es paralelo y distribuido con forma y estructura de un cerebro. Tiene grandes ventajas, como el bajo consumo energético y gran capacidad de procesamiento paralelo. Aunque es funcional, tambien requiere un gran desarrollo tecnologico, alto consumo de sistemas clasicos y difícil de programar.
@@ -76,6 +78,8 @@ Funciona mediante la simulación un millón de neuronas con miles de millones de
 
 La **Computaión Biológica** es un sistema creado con materiales biológicos con **(ADN, ARN, proteinas o células)** para realizar operaciones de informacion, apoyandose de los procesos bioquímicos para realizar procesos.
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/59b763ee-17f6-4c13-b598-07dda0159fa3" />
+
 ### 📎 Arquitectura y tipos
 
 En general existen varios tipos de Ordenadores Biológicos, ya sean **ADN, Celular y Molecular**, usuan procesos de ADN, celulas modificadas y reacciones basadas en proteínas y enzimas. Esto genera un gran avance en el proceso de información y resolver probleas sencillos sin uso de electronica.
@@ -85,7 +89,7 @@ En general existen varios tipos de Ordenadores Biológicos, ya sean **ADN, Celul
 | Biomoléculas y reacciones | Unidades de información usando ADN, ARN y proteínas, usando reacciones de células vivas o nanomáquinas moleculares.  |
 | Puertas Lógicas y Sistemas de In - Out  | Reacciones que simulan pueras lógicas y inhiben procesos generando resultados. |
 
-### 🐄 Breve Historia de la Computadora Cuántica
+### 🐄 Breve Historia de la Computaión Biológica
 
 #### 1994 - 2013
 
@@ -99,6 +103,8 @@ Usan procesos de circuitos biológicos capaces de almacenar memoria y investigan
 
 Una union de múltiples procesadores como **CPU, GPU, ASIC, FFGA, NPU**, cada uno para tareas esprecíficas. Esto genera eficiencia, rendimientos y aprendizajes.
 
+<img width="830" height="400" alt="image" src="https://github.com/user-attachments/assets/eb7669a3-b5d1-4c37-80d9-6898a5456c8c" />
+
 ### 🐄 Breve Historia de la Computadora Heterogénea
 
 #### 2000 - 2025
@@ -108,6 +114,16 @@ Actualmente los podemos ver en celulares, consolas y centros de datos para proce
 
 ## ⚪ Computación de Borde
 
+El **Edge Computing** es el modelo de datos cerca ala fuente, sin depender totalmente de la nube. En resumen, la computación de borde implica ejecutar menos procesos en la nube y trasladarlos a ubicaciones locales. Esto reduce la latencia y ancho de banda, es mas confiavle y con mejor seguridad. Aunque toca tener encuenta que los costos de infraestructura es alto y tiene complejidad en la gestión y mantenimiento.
+
+<img width="600" height="499" alt="image" src="https://github.com/user-attachments/assets/404f43aa-4d6a-4e5e-ad72-e35a0bdd3138" />
+
+### 🐄 Breve Historia de la Computación de Borde
+
+#### 2010 -2025
+
+Antes del 2010, la tecnología estuvo marcada por el predominio del Cloud Computing, junto con la expansión del Internet de las Cosas (IoT) y el auge de los dispositivos móviles.
+En la actualidad, con la llegada del 5G y el avance hacia un entorno cada vez más digital, se impulsa una mayor autonomía electrónica, permitiendo operar sin depender de una conexión directa a la nube.
 
 ## 📎 Referencias
 
