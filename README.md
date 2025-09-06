@@ -56,8 +56,52 @@ En 1996 se desarolla una solución drastica para la busqueda de datos no estruct
 | Comunicación Cuántica | El **entrelazamiento** funciona para transmitir datos -> **(QKD)** |
 | Compuertas Cuánticas | Igual que las compuestas en binario, los qubits tambien pueden modificar su estado, ya sea con **Hadamard (H) - CNMOT - Pauli-X, Y, Z** |
 
+## 🧠  Computaión Neuromórfica
+
+La **Computación Neuromórfica**, tien como enfoque informático que imita la forma del funcionamiento de un cerebro humano. Implica el diseño de hardware y software que simulen las estructuras y funciones neuronales y sinápticas del cerebro para procesar información.
+
+### 💽 Hardware Neuromórfico y Arquitectura
+
+Funciona mediante la simulación un millón de neuronas con miles de millones de conexiones sinápticas en tiempo real. Estan creados mediante dispositivos de silicio y tecnología **CMOS**. Su procesamiento es paralelo y distribuido con forma y estructura de un cerebro. Tiene grandes ventajas, como el bajo consumo energético y gran capacidad de procesamiento paralelo. Aunque es funcional, tambien requiere un gran desarrollo tecnologico, alto consumo de sistemas clasicos y difícil de programar.
+
+#### 📚 Tipos de Computaión Neuromórfica
+
+| Concepto | Description |
+| --- | --- |
+| Simulación en computadores clásicos | Usando Superordenadores para emular neuronas y sinapsis. No genera un gran consumo de energía. |
+| Hardware neuromórfico dedicado | Diseño de chips para imiar cerebros mendiante la electrónica |
+| Computación híbrida | Hardware clásico con módulos neuromórficos para aprovechar los sistemas integrados. |
+
+## 🌱 Computaión Biológica
+
+La **Computaión Biológica** es un sistema creado con materiales biológicos con **(ADN, ARN, proteinas o células)** para realizar operaciones de informacion, apoyandose de los procesos bioquímicos para realizar procesos.
+
+### 📎 Arquitectura y tipos
+
+En general existen varios tipos de Ordenadores Biológicos, ya sean **ADN, Celular y Molecular**, usuan procesos de ADN, celulas modificadas y reacciones basadas en proteínas y enzimas. Esto genera un gran avance en el proceso de información y resolver probleas sencillos sin uso de electronica.
+
+| Concepto | Description |
+| --- | --- |
+| Biomoléculas y reacciones | Unidades de información usando ADN, ARN y proteínas, usando reacciones de células vivas o nanomáquinas moleculares.  |
+| Puertas Lógicas y Sistemas de In - Out  | Reacciones que simulan pueras lógicas y inhiben procesos generando resultados. |
+
+### 🐄 Breve Historia de la Computadora Cuántica
+
+#### 1994 - 2013
+
+Varios cientificos utilizan el ADN para resolver sistemas matematicos y operaciones lógicas básicas **(Leonard Adleman - Ehud Shapiro - Harvard)**. Además, con ayuda de la computación Neuromorfica se crea un cerebro sintetico con células artificiales.
+
+#### 2017 - 2025
+
+Usan procesos de circuitos biológicos capaces de almacenar memoria y investigan implantes para procesos medicos y corregir fallas en el organismo.
+
 ## 📎 Referencias
 
 Microsoft Azure. (s.f.). ¿Qué es la computación cuántica? Recuperado el 5 de septiembre de 2025, de Microsoft Azure: https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-quantum-computing
 
 IBM. (s.f.). ¿Qué es la computación cuántica? Recuperado el 5 de septiembre de 2025, de IBM: https://www.ibm.com/es-es/topics/quantum-computing
+
+Caballar, R. D., & Stryker, C. (27 de junio de 2024). ¿Qué es la computación neuromórfica?. IBM. Recuperado el 5 de septiembre de 2025, de https://www.ibm.com/es-es/think/topics/neuromorphic-computing
+
+Marr, B. (2021, 2 de julio). What is biological computing and how it will change our world. Recuperado el 5 de septiembre de 2025, de Bernard Marr: https://bernardmarr.com/what-is-biological-computing-and-how-it-will-change-our-world/
+
